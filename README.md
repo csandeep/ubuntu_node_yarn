@@ -1,4 +1,4 @@
-## Ubuntu 14.04 with NodeJS 8 and Yarn
+## Ubuntu 14.04 with NodeJS 10.x and Yarn
 
 Use this container for developement.
 
